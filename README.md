@@ -1,3 +1,5 @@
+![Java CI](https://github.com/krishnaaaaaaaaaaaaaaaa/Cloud-Resource-Analyzer/actions/workflows/maven.yml/badge.svg)
+
 Cloud-Resource-Analyzer
 Overview
 A lightweight, Java-based system telemetry tool designed to monitor CPU and heap memory utilization in real-time. This project explores the Java Management Extensions (JMX) API to provide insights into application resource consumption and system health.
